@@ -80,7 +80,7 @@ function Questions() {
                 <>
                 <div className="question-section">
                     <div className="question-count">
-                        <div>Question </div>{score + 1}/{questions.length}
+                        <div>Question</div>{score + 1}/{questions.length}
                     </div>
                     <div className="question-text">{questions[currentQuestion].questionText}</div>
                     </div>

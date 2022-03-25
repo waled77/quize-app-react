@@ -5,7 +5,7 @@ import Questions from './Components/Questions/Questions';
 class App extends Component {
     render () {
         return (
-            <div className="app">
+            <div className="App">
                 <Questions />
             </div>
             
