@@ -14,10 +14,14 @@
 
 .question-count {
     margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.question-count span {
+.question-count div {
     font-size: 25px;
+    margin-right: 10px;
 }
 
 .question-text {
@@ -49,6 +53,6 @@
 }
 
 .questions .score-section {
-    font-size: 25px;
+    font-size: 22px;
 }
 
